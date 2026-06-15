@@ -1,0 +1,7 @@
+{
+    "login_url": "https://oprytech.com/login",
+    "username": "admin",
+    "password": "admin123",
+    "dashboard_url": "https://oprytech.com/dashboard",
+    "job_requirement_url": "https://oprytech.com/job-requirement/create"
+}
